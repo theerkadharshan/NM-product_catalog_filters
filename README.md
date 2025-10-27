@@ -45,7 +45,7 @@ product-catalog/
 1. **Download or clone this repository**
 
    ```bash
-   git clone https://github.com/your-username/product-catalog.git
+   git clone https://github.com/theerkadharshan/NM-product_catalog_filters.git
    ```
 
 2. **Open the folder** in your code editor.
@@ -76,7 +76,8 @@ product-catalog/
 
 ### 🖼️ Example Products
 
-| Name       | Category    | Price   |
+| Name       | Ca
+tegory    | Price   |
 | ---------- | ----------- | ------- |
 | Smartphone | Electronics | ₹15,000 |
 | Headphones | Electronics | ₹800    |
